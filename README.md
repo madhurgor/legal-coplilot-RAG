@@ -18,3 +18,5 @@ DEVPOST RAGathon by 500 Global
 * mcp server
   * for elasticsearch
   * for while repo
+* arize 
+  * for evaluating model
